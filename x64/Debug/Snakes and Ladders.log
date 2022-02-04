@@ -1,0 +1,3 @@
+﻿  Source.cpp
+G:\University Work\2021 - 2022\C++ Programming For Game Developers\Assingment 1\Snakes and Ladders\Snakes and Ladders\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Snakes and Ladders.vcxproj -> G:\University Work\2021 - 2022\C++ Programming For Game Developers\Assingment 1\Snakes and Ladders\x64\Debug\Snakes and Ladders.exe
